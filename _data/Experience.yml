@@ -2,21 +2,25 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Technip Energie
+    role: IT Internal Auditor
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Lorem Ipsum
+    date: Sep. 2025 - Ongoing
+  - title: BNP Paribas
+    role: Chargé d'Intelligence Économique
+    description:
+      - Réalisation d’une veille sur le marché de l’Assurance et réalisation d’études Ad Hoc
+      - Edition de rapports et études pour les équipes Marketing
+    date: Sep. 2023 - Aug. 2025
+  - title: Michelin
+    role: Assistant Data Protection Officer
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Coordination et mise en conformité du transfert des données de l’entité depuis un disque réseau vers une solution SharePoint, en assurant la sécurité et l’accessibilité des informations
+    date: Sep. 2022 - Dec. 2023
+  - title: Michelin
+    role: Assistant Manager
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
+      - Gestion d’agenda, planification des déplacements et soutien organisationnel d’un manager et de son service
+      - Gestion de la documentation et de la migration des bases de données de l’entité B2C
     date: Jul. 2013 - Sep. 2013
