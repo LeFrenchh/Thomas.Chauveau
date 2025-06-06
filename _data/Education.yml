@@ -14,5 +14,14 @@ contents:
     grade: "**Mention**: `Très Bien`"
     date: Sep. 2023 - Aug. 2025
   - title: Excelia BS - Bachelor in Business
+    description:
+      - Development of deep learning algorithms for automatically tracking the facial expressions
+      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
     grade: "**Distinction**: `Major de promotion`"
     date: Sep. 2022 - Aug. 2023
+  - title: GFS - BTS Support à l'Action managerial
+    description:
+      - Development of deep learning algorithms for automatically tracking the facial expressions
+      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+    grade: "**Distinction**: `Major de promotion`"
+    date: Sep. 2020 - Aug. 2022
