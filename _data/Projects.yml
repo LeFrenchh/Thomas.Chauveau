@@ -13,7 +13,7 @@ contents:
   - title: Création de la plateforme Lab'OSINT
     description: 
       - Création de challenges et administration de la plateforme CTF de l’AEGE
-    image: image + lien à mettre
+    image + lien à mettre
   - title: Projets de programmation 
     description:
       - Création d’un algo de chiffrement en Python
