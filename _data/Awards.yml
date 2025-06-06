@@ -2,12 +2,18 @@ subject: Awards
 listing-order: 3
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: EBIOS Risk Management
+    description: Description à faire
+    date: Feb. 2025
+  - title: TOEIC
+    description: 930/990
+    date: Dec. 2024
+  - title: Machine learning & Deep Learning - Kaagle
+    description: Description à faire
+    date: Sep. 2024
+  - title: CompTIA Pentest+ - TryHackMe
+    description: Description à faire
+    date: Mar. 2024
+  - title: Junior Penetration Tester - TryHackMe
+    description: Description à faire
+    date: Jan. 2024
