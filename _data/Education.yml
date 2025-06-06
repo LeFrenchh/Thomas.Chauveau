@@ -4,24 +4,32 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: ESSEC x Telecom Paris - MS Mangement des SI en Réseaux
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
+    Filière - Digital & Audit 
+    Management de projet IT et élaboration d’une stratégie SI 
+    Knowledge management / Management de l’innovation 
+    Big Data et Intelligence Artificielle (IA) 
+    Architectures des SI en réseaux / Service web & SOA
     date: Sep. 2025 - Aug. 2026
   - title: EGE - M2 Risque, Surêté et Cybersécurité
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+    Spécialité - Cybersecurité & OSINT
+    Management du risque - EBIOS, ISO 27001
+    OSINT, Due Diligence et Veille 
+    Cryptographie, Forensics, Python, Réseaux et Web 
+    Finance & Droit des entreprises
     grade: "**Mention**: `Très Bien`"
     date: Sep. 2023 - Aug. 2025
   - title: Excelia BS - Bachelor in Business
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+    Gestion de projet et Management
+    Finance de marché et Finance d’entreprise
+    Marketing
     grade: "**Distinction**: `Major de promotion`"
     date: Sep. 2022 - Aug. 2023
   - title: GFS - BTS Support à l'Action managerial
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+    Gestion de projet 
+    Activités de support et aide à la décision
+    Ressources Humaines
     grade: "**Distinction**: `Major de promotion`"
     date: Sep. 2020 - Aug. 2022
