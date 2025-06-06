@@ -15,7 +15,7 @@ contents:
       - Création de challenges et administration de la plateforme CTF de l’AEGE
     image: image + lien à mettre
   - title: Projets de programmation 
-    description: 
+    description:
       - Création d’un algo de chiffrement en Python
       - Aggrégation d’une base de données avec API en Python
       - Programmation d’un Algorithme de DeepLearning (Random Forest)
