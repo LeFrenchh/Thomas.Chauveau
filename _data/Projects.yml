@@ -7,9 +7,9 @@ contents:
      - Conférence au FIC 2025 à Lille pour présenter une enquête sur la Mafia Nigérian
   - title: QuickClass pour l'AEGE
     description: 
-      - Atelier Phishing avec GoPish
-      - OPSEC et Dark Web
-      - JuiceShop & Top10 OWASP
+      - Atelier Phishing avec GoPish pour l'AEGE
+      - OPSEC et Dark Web pour l'AEGE, Skema et HEIP
+      - JuiceShop & Top10 OWASP pour l'AEGE
   - title: Création de la plateforme Lab'OSINT
     description: 
       - Création de challenges et administration de la plateforme CTF de l’AEGE
