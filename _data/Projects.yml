@@ -12,8 +12,7 @@ contents:
       - JuiceShop & Top10 OWASP pour l'AEGE
   - title: Création de la plateforme Lab'OSINT
     description: 
-      - Création de challenges et administration de la plateforme CTF de l’AEGE
-    image + lien à mettre
+      - Création de challenges et administration de la plateforme CTF de l’AEGE (image + lien à mettre)
   - title: Projets de programmation 
     description:
       - Création d’un algo de chiffrement en Python
