@@ -2,7 +2,7 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-   - title: Conferencier FIC 2025
+  - title: Conferencier FIC 2025
     description: 
      - Conférence au FIC 2025 à Lille pour présenter une enquête sur la Mafia Nigérian
   - title: QuickClass pour l'AEGE
