@@ -2,24 +2,29 @@
 ---
 
 :root {
-    --color-background: #fffdfb;
-    --theme1-light: #F6D8CB;
-    --theme1-medium: #D0A694;
-    --theme1-dim: #B07D67;
-    --theme1-dark: #8A5843;
-    --theme2-light: #B1B1C2;
-    --theme2-medium: #8888A4;
-    --theme2-dim: #66658C;
-    --theme2-dark: #484776;
-    --theme3-light: #FFF8E4;
-    --theme3-medium: #EBDFBB;
-    --theme3-dim: #C8B887;
-    --theme3-dark: #A8955A;
-    --theme4-light: #AABEB6;
-    --theme4-medium: #7FA093;
-    --theme4-dim: #5C8876;
-    --theme4-dark: #3D725D;
-    --font-dark: #202424;
+  --color-background: #f9f9f9;
+
+  --theme1-light: #e3f2fd;   /* Bleu ciel pastel */
+  --theme1-medium: #90caf9;  /* Bleu doux */
+  --theme1-dim: #64b5f6;
+  --theme1-dark: #1976d2;    /* Bleu profond */
+
+  --theme2-light: #fce4ec;   /* Rose très clair */
+  --theme2-medium: #f48fb1;  /* Rose élégant */
+  --theme2-dim: #ec407a;
+  --theme2-dark: #c2185b;
+
+  --theme3-light: #fffde7;   /* Jaune pâle */
+  --theme3-medium: #fff176;  /* Jaune doux moderne */
+  --theme3-dim: #fdd835;
+  --theme3-dark: #fbc02d;
+
+  --theme4-light: #e8f5e9;   /* Vert doux */
+  --theme4-medium: #81c784;  /* Vert pastel */
+  --theme4-dim: #4caf50;
+  --theme4-dark: #388e3c;
+
+  --font-dark: #1e1e1e;
 }
 
 html, body {
